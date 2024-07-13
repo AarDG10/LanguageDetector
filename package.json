@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "languessr",
+  "version": "1.0.0",
+  "description": "Project Based Learning - A Language Detector using Node_modules (Franc, colors).",
+  "main": "index.js",
+  "dependencies": {
+    "collapse-white-space": "^2.1.0",
+    "franc": "^6.2.0",
+    "langs": "^2.0.0",
+    "n-gram": "^2.0.2",
+    "trigram-utils": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aarol D'Souza",
+  "license": "ISC"
+}
